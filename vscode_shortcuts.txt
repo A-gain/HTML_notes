@@ -1,0 +1,18 @@
+if we press ! and then tab basic html template will be apply
+<!-- "ctrl + /"=sortcut for comments -->
+<body bgcolor=black ></body> to change background color
+<!-- ("ctrl + b")=sortcut to toggle sidebar -->
+<!-- ("ctrl + `)"=sortcut to toggle terminal -->
+<!-- ("ctrl + ,)"=sortcut to open user settings -->
+<!-- ("ctrl + p)"=sortcut to command palette -->
+----
+<!-- if you press (alt + leftclick) you can write on two places at a same time -->
+
+<!-- if you press (ctrl + d) when your cursor is in a the word
+it will select the word, pressing it again will select
+ the same word from next lines with the selected word -->
+ 
+ <!-- use ( alt + up/down arrow) to move a line -->
+ <!--( alt + shift + up/down arrow) duplicate the line while moving a line -->
+
+ <!-- (ctrl + L) copies the whole line and moves to next -->
