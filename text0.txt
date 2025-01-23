@@ -3,4 +3,4 @@ yes just tring to understand the commands
 whatever i just understand that
 git push pushes the commited changes to git hub
 git pull pulls the commited changes from git hub to local storage
-##important point you have to set the terminal path to the folder where your modified files gonna store.
+## important point you have to set the terminal path to the folder where your modified files gonna store.
